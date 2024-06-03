@@ -1,6 +1,6 @@
-<!-- ### Hi there 👋 -->
+ ### Hi there 👋 
 
-<!--
+
 **yash-2523/yash-2523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-2523&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
--->
